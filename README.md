@@ -20,7 +20,7 @@ A front-end YouTube clone built with HTML and CSS. Developed as the main project
 | Page | Description |
 |------|-------------|
 | `index.html` | Main video feed |
-| `pg2.html` | Second page of videos |
+| `pg2.html` | how to link a second page in websites |
 
 ## What I Learned
 
